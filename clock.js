@@ -27,7 +27,7 @@ function init(){
     getTime();
 
     setInterval(getTime, 1000);
-    console.dir(clockTitle);
+    
     
 }
 
